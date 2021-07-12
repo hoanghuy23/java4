@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//WebContent/sites/videos/detail.jsp=UTF-8
+encoding//src/edu/poly/admin/servlet/ShareVideoServlet.java=UTF-8
+encoding//src/edu/poly/site/servlet/ShareVideoServlet.java=UTF-8
